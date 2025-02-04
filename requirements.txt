@@ -1,0 +1,6 @@
+requests
+uvicorn
+fastapi
+sqlalchemy
+passlib
+bcrypt
